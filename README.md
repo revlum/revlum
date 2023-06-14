@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/85nfYCF2/revlum-com.png">
-
 👋 Hi, we’re @revlum, an adtech company that's working towards revolutionizing the way advertisers engage with their audiences. We're developing cutting-edge solutions that enable advertisers to leverage highly targeted offers, helping them meet their user acquisition and monetization goals.
 
 👀 We’re deeply interested in technologies and techniques that drive meaningful and measurable ad engagement. This extends to everything from data analytics and AI to user experience and ad tech strategies. We love exploring how these various components can come together to create more effective and user-friendly ad experiences.
